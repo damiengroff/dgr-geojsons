@@ -1,0 +1,1 @@
+[OpenStreetMap](https://www.openstreetmap.org/copyright) &copy; data extracted via [Overpass API](https://overpass-turbo.eu/) and edited with [QGIS](https://qgis.org/download/) or [geojson.io](https://geojson.io).
